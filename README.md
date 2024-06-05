@@ -25,3 +25,51 @@ the star must be yellow and its texts must be silver
 Anything else we should know when building milestones?
 
 To ensure that the click event is always guaranteed to the canvas after a reset
+
+Step 3: Plan Milestones
+There are many ways to approach your project, but here's one. If you need some help getting started, here's a guide to help you through the process. You can mark each step as completed as you go.
+
+Of course, feel free to take your own path. It's the journey that matters, not the destination.
+
+Define the Project Scope and Plan
+Start by breaking down the project into manageable parts. For example, draw the star, detect clicks on the star, and display values when the star points are clicked. Write a plan that outlines each task you need to complete to make the project successful.
+
+Here are some resources that might help you with this step:
+Lesson: Art of Problem Solving
+Reading: Stepwise Refinement
+Draw the Star
+Use the graphics library to draw a five-pointed star on the screen. You might want to start by figuring out the coordinates for each point of the star and use these to create your shape.
+
+Here are some resources that might help you with this step:
+Reading: Graphics Shapes
+Lesson: Graphics
+Detect Clicks on the Star
+Add functionality to detect clicks on the star. You'll need to determine whether a click happened within one of the points on the star.
+
+Here are some resources that might help you with this step:
+Lesson: Animation
+Worked Example: Mouse Tracker
+Display Values Near Clicked Points
+When a star point is clicked, display the corresponding value. You might want to draw the text near the clicked point or in a designated area on the screen. Make sure the text color is silver as per your specifications.
+
+Store and Display Clicked Values
+Store each clicked value in a list and display all collected values in a specific area of the screen. This will require some logic to add each value to the list and update the display accordingly.
+
+Here are some resources that might help you with this step:
+Reading: Lists
+Lesson: Lists
+Enhance the Visual Appeal
+Add colors and styles to the star and text. Ensure the star is yellow and the text is silver. Play around with different fonts and sizes to make the display more visually appealing.
+
+Here are some resources that might help you with this step:
+Worked Example: Exploring Colors
+Test and Refine
+Test your program to ensure all functions work correctly. Make sure clicks are detected properly, values are displayed, and everything is visually appealing. Make any necessary refinements to complete the project.
+
+Optional: Advanced Features
+If time permits, consider adding additional features such as animating the click interactions or adding a reset button to clear the displayed values. Use your creativity to elevate your project!
+
+Here are some resources that might help you with this step:
+Reading: Animation
+Here are some terms you might need to know for this step:
+Animation: Creating a sequence of images or frames to simulate motion. In this context, it refers to making elements on the screen move or change over time.
